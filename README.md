@@ -210,10 +210,15 @@ Note: the version in arXiv is slightly newer and contains information about
 which hyperparameters turned out to be the most effective for each architecture.
 
 ```bibtex
-@inproceedings{aga2018cnngp,
-  author    = {{Garriga-Alonso}, Adri{\`a} and Aitchison, Laurence and Rasmussen, Carl Edward},
+@inproceedings{garriga2018infiniteconv,
+  author    = {Adri{\`{a}} Garriga{-}Alonso and
+               Carl Edward Rasmussen and
+               Laurence Aitchison},
   title     = {Deep Convolutional Networks as shallow {G}aussian Processes},
-  booktitle = {International Conference on Learning Representations},
+  booktitle = {7th International Conference on Learning Representations},
   year      = {2019},
-  url       = {https://openreview.net/forum?id=Bklfsi0cKm}}
+  url       = {https://openreview.net/forum?id=Bklfsi0cKm},
+  archivePrefix = {arXiv},
+  eprint = {1808.05587},
+}
 ```
